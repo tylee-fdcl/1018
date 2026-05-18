@@ -21,7 +21,13 @@ The AI Merit Badge requires completion of two projects. After attending the grou
 
 &nbsp; [https://forms.gle/ECpLUGP1HnbDUvqm9](https://forms.gle/ECpLUGP1HnbDUvqm9)
 
-Additional details will be posted on this page at a later time.
+The slides discussed during the group sessions are availabel at
+
+[Slides](files/AIMeritBadge_handout.pdf)
+
+There is an assignemnt to be completed by Monday, June 1st:
+
+[Assignment](files/assignments.pdf)
 
 ## Group Counseling for Robotics Merit Badge
 
