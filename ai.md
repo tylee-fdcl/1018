@@ -27,7 +27,7 @@ The slides discussed during the group sessions are availabel at
 
 There is an assignemnt to be completed by Monday, June 1st:
 
-[Assignment](files/assignments.pdf)
+[Assignment](files/assignment.pdf)
 
 ## Group Counseling for Robotics Merit Badge
 
