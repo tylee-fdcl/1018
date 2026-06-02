@@ -25,9 +25,13 @@ The slides discussed during the group sessions are availabel at
 
 [Slides](files/AIMeritBadge_handout.pdf)
 
-There is an assignemnt to be completed by Monday, June 1st:
+There is an assignment to be completed by Monday, June 1st:
 
 [Assignment](files/assignment.pdf)
+
+The scout responses to the assignment are copied below:
+
+[Responses](files/responses.md)
 
 ## Group Counseling for Robotics Merit Badge
 
